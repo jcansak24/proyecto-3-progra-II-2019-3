@@ -1,0 +1,6 @@
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\bin\Release\verificadorTAGS.exe.config
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\bin\Release\verificadorTAGS.exe
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\bin\Release\verificadorTAGS.pdb
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\obj\Release\verificadorTAGS.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\obj\Release\verificadorTAGS.exe
+C:\Users\Maria\Documents\Visual Studio 2015\Projects\verificadorTAGS\verificadorTAGS\obj\Release\verificadorTAGS.pdb
